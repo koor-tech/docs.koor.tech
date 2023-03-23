@@ -1,3 +1,12 @@
+:root {
+  --md-primary-fg-color: #19dda5;
+  --md-accent-fg-color: #cb2864;
+}
+
+.md-header {
+  background-color: #1d2628;
+}
+
 [data-md-color-primary="koor"] {
   --md-primary-fg-color: #19dda5;
 }
