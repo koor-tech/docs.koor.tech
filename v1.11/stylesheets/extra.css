@@ -1,3 +1,7 @@
-[data-md-color-primary="rook-blue"] {
-    --md-primary-fg-color: #2ac6ea;
+[data-md-color-primary="koor"] {
+  --md-primary-fg-color: #19dda5;
+}
+
+[data-md-color-primary="koor-dark"] {
+  --md-primary-fg-color: #119671;
 }
